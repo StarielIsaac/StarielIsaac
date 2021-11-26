@@ -12,9 +12,17 @@
 ## 🎯 More About Me
 <br>
 
+* ### 🎓 Attending systems analysis and development - Estácio de Sá (CE).
+* ### 📌 Always seeking to evolve day after day and thus achieve great results. 
+* ### 👾 I like to play the guitar and play soccer in my spare time.
+* ### 💡 "Try to move the world, the first step will be to move yourself' - Platão
+ <br>
+  
 ---
 
 ## 📧 Contact Me 
+<br>
+  
 * [Linkedin](https://www.linkedin.com/in/stariel-isaac-oliveira-fernandes-2609191ba/)
 *
 *
