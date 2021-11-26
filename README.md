@@ -14,4 +14,9 @@
   # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=StarielIsaac&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarielIsaac&theme=tokyonight)
+
+<p align="center">
 Desenvolvido por Stariel Isaac
+</p>
