@@ -1,7 +1,6 @@
 # <p align="center"> Hi, my name <strong>Stariel Isaac<strong>. <em>Welcome!</em> 😄 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=StarielIsaac)
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/StarielIsaac)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/94204429/143463195-d67b5b34-c76a-439f-9616-04f8d9850779.png" alt="computer"> 
@@ -15,29 +14,32 @@
 * ### 🎓 Attending systems analysis and development - Estácio de Sá (CE).
 * ### 📌 Always seeking to evolve day after day and thus achieve great results. 
 * ### 👾 I like to play the guitar and play soccer in my spare time.
-* ### 💡 "Try to move the world, the first step will be to move yourself' - Platão
- <br>
+  <br><br>
+<p align="center"> 
+🌱 "Try to move the world, the first step will be to move yourself.' - Platão
+</p>
   
 ---
 
-## 📧 Contact Me 
+## 🌎 Contact Me 
 <br>  
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stariel-isaac-oliveira-fernandes-2609191ba/)
  [![Discord](https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/channels/Stariel#2734)
  [![Instagram](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/stariel_isaac/)
-  
+  [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/StarielIsaac)
+ 
 ---
 
 ### 🥇 Languagens and Tools
   <br>
- 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![image](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![image](https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white)
-  
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+ <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+ <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+  <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   
 ---
 
