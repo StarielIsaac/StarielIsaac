@@ -1,4 +1,4 @@
-# <p align="center"> Hi, my name <strong>Stariel Isaac<strong>. <em>Welcome!</em> 😄 </p>
+# <p align="center"> Hi, my name <strong>Stariel Isaac<strong>. <em>Welcome!</em> 💜 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=StarielIsaac)
 
