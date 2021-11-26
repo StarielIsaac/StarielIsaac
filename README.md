@@ -1,16 +1,17 @@
-### Hi there 👋
+# <p align="center"> Olá, me chamo Stariel Isaac. Bem vindo! </p>
 
-<!--
-**StarielIsaac/StarielIsaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94204429/143463195-d67b5b34-c76a-439f-9616-04f8d9850779.png" alt="computer"> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![](https://visitor-badge.laobi.icu/badge?page_id=StarielIsaac)
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/StarielIsaac)
+
+  
+  # Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
