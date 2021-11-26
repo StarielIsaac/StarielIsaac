@@ -3,7 +3,7 @@
   
   <p align="center"> 
   <a href=""><img src="https://visitor-badge.laobi.icu/badge?page_id=StarielIsaac" alt="Instagram" width="90"/></a> &nbsp;
-  <a href=""><img src="https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social" alt="Instagram" width="100"/></a> &nbsp;
+  <a href=""><img src="https://img.shields.io/github/followers/StarielIsaac?label=Follow&style=social" alt="" width="100"/></a> &nbsp;
   <p align="center"> 
      
 <p align="center">
