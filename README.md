@@ -23,9 +23,10 @@
 ## 📧 Contact Me 
 <br>
   
-* [Linkedin](https://www.linkedin.com/in/stariel-isaac-oliveira-fernandes-2609191ba/)
-*
-*
+
+  ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   ![Discord]( https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=Discord&logoColor=white)   
+  
+  
 ---
 
 ## 🥇 Languagens and Tools
