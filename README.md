@@ -13,12 +13,11 @@
 ---
 
 ## 🎯 More About Me
-<br>
 
 * ### 🎓 Attending systems analysis and development - Estácio de Sá (CE).
 * ### 📌 Always seeking to evolve day after day and thus achieve great results. 
 * ### 👾 I like to play the guitar and play soccer in my spare time.
-  <br><br>
+  <br>
 <p align="center"> 
 🌱 "Try to move the world, the first step will be to move yourself." - Platão
 <p align="center"> 
