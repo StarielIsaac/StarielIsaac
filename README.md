@@ -25,6 +25,7 @@
 ## 🏆 My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StarielIsaac&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarielIsaac&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
