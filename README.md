@@ -1,4 +1,4 @@
-# <p align="center"> Olá, me chamo Stariel Isaac. Bem vindo! </p>
+# <p align="center"> Hi, my name Stariel Isaac. Welcome! 😄 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=StarielIsaac)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/StarielIsaac)
