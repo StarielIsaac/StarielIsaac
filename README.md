@@ -52,7 +52,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StarielIsaac&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starielIsaac&theme=tokyonight)
   
-
+<div align="left" style="display: inline_block"> 
+  
+  ![Snake animation](https://github.com/pauloabraao/pauloabraao/blob/output/github-contribution-grid-snake.svg)
 
 ---
 <br>
