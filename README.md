@@ -1,4 +1,4 @@
-# <p align="center"> Hi, my name Stariel Isaac. Welcome! 😄 </p>
+# <p align="center"> Hi, my name <strong>Stariel Isaac<strong>. <em>Welcome!<em> 😄 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=StarielIsaac)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/StarielIsaac)
@@ -10,6 +10,7 @@
 ---
 
 ## 🎯 More About Me
+<br>
 
 ---
 
@@ -18,17 +19,19 @@
 *
 *
 ---
+
 ## 🥇 Languagens and Tools
-  
+  <br>
+ 
 ---
 
 ## 🏆 My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StarielIsaac&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarielIsaac&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starielIsaac&theme=tokyonight)
 
 
 ---
-
+<br>
 <h3><p align="center">
-  Desenvolvido por Stariel Isaac
+  Desenvolvido por <em><strong>Stariel Isaac<strong><em>
 </p></h3>
