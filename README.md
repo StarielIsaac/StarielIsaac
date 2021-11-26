@@ -54,5 +54,5 @@
 ---
 <br>
 <h3><p align="center">
-  Desenvolvido por <em><strong>Stariel Isaac<strong><em>
+  📌 Desenvolvido por <em><strong>Stariel Isaac<strong><em>
 </p></h3>
