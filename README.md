@@ -9,6 +9,10 @@
 
 ---
 
+## 🎯 More About Me
+
+---
+
 ## 📧 Contact Me 
 * [Linkedin](https://www.linkedin.com/in/stariel-isaac-oliveira-fernandes-2609191ba/)
 *
@@ -21,6 +25,8 @@
 ## 🏆 My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StarielIsaac&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarielIsaac&theme=tokyonight)
+
+---
 
 <h3><p align="center">
   Desenvolvido por Stariel Isaac
