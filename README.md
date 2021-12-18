@@ -53,7 +53,6 @@
   
 <div align="left" style="display: inline_block"> 
   
-  ![Snake animation](https://github.com/pauloabraao/pauloabraao/blob/output/github-contribution-grid-snake.svg)
 
 ---
 <br>
