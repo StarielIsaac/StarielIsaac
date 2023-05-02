@@ -1,51 +1,66 @@
-# <p align="center"> Hi, my name is <strong>Stariel Isaac<strong>. <em>Welcome!</em> 💜 </p>
+### <p align="center"> Olá, me chamo <strong>Stariel Isaac</strong>. <em>Welcome!</em> 💜 </p>
 
-  
   <p align="center"> 
   <a href=""><img src="https://visitor-badge.laobi.icu/badge?page_id=StarielIsaac" alt="Instagram" width="90"/></a> &nbsp;
   <a href=""><img src="https://img.shields.io/github/followers/StarielIsaac?label=Follow&style=social" alt="" width="100"/></a> &nbsp;
   <p align="center"> 
      
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/94204429/143463195-d67b5b34-c76a-439f-9616-04f8d9850779.png" alt="computer"> 
+  <img src="https://user-images.githubusercontent.com/94204429/143463195-d67b5b34-c76a-439f-9616-04f8d9850779.png" width="140" alt="computer"> 
 </p>
+  
+Estudo Desenvolvimento Web na **Trybe**, uma escola que ensina a programar, a aprender e a trabalhar. Estudando as principais tecnologias requisitadas pelo mercado, atualmente busco um novo desafio, me tornar **desenvolvedor Full Stack**.
 
----
+Sou amante da Tecnologia, gosto de trabalhar em equipe, criar meus próprios projetos e desenvolver aplicações úteis para facilitar a vida das pessoas.
 
-## 🎯 More About Me
+Meu e-mail: starielfernandes@gmail.com<br>
+Número: (88) 99784-5662
+  
+Experiência com:
 
-* ### 🎓 Attending systems analysis and development - Estácio de Sá (CE).
-* ### 📌 Always seeking to evolve day after day and thus achieve great results. 
-* ### 👾 I like to play the guitar and play soccer in my spare time.
+<code>**_HTML, CSS, NodeJS, JavaScript, Jest, React, Redux, Context API, Docker, Git/GitHub, Scrum/Kanban_**; </code>
+
+Desenvolvedor Web | Full Stack | Front-end | Back-end
+
+<br>
+
+* 🎓 Tecnólogo em Analise e Desenvolvimento de Sistemas - Estácio de Sá.
+* 📌 Sempre buscando evoluir dia após dia e assim alcançar grandes resultados.
+* 👾 Gosto de tocar violão e jogar futebol nas horas vagas. 
+
+<br>
+
+### 👩🏻‍💻 Languagens que conheço (até o momento)
   <br>
-<p align="center"> 
-🌱 "Try to move the world, the first step will be to move yourself." - Platão
-<p align="center"> 
+<div style="display: inline_block"><br>
+  <img align="center" alt="stariel-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
+  <img align="center" alt="stariel-redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux">
+    <img align="center" alt="stariel-jest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="jest">
+  <img align="center" alt="stariel-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img align="center" alt="stariel-typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript"> 
+  <img align="center" alt="stariel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
+  <img align="center" alt="stariel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
+  <img align="center" alt="stariel-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJs">
+  <img align="center" alt="stariel-express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="ExpressJs">
+  <img align="center" alt="stariel-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL">
+  <img align="center" alt="stariel-docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
+
+ 
+<!--   <img align="center" alt="paulinha-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">   -->
+</div>
   
 ---
 
-## 🌎 Contact Me 
+### 🌎 Entre em contato comigo
 <br>  
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stariel-isaac-oliveira-fernandes-2609191ba/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stariel-isaac/)
  [![Discord](https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/channels/Stariel#2734)
  [![Instagram](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/stariel_isaac/)
  
 ---
 
-## 🥇 Languagens and Tools
-  <br>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
- <code><img height="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-  <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  
----
-
-## 🏆 My GitHub Stats
+### 🏆 My GitHub Stats
   <br>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StarielIsaac&show_icons=true&theme=tokyonight)
@@ -56,6 +71,6 @@
 
 ---
 <br>
-<h3><p align="center">
+<h5><p align="center">
   📌 Desenvolvido por <em><strong>Stariel Isaac<strong><em>
-</p></h3>
+</p></h5>
