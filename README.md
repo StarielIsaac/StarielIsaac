@@ -1,4 +1,4 @@
-### <p align="left"> Olá, me chamo <strong>Stariel Isaac</strong>. Welcome!💜 </p>
+### <p align="left"> Olá, me chamo <strong>Stariel Isaac</strong>. Welcome! 💜</p>
 
 <div style="display: inline">
 <spam align="left">  
@@ -30,25 +30,25 @@ Durante minha jornada de aprendizado, mergulhei de cabeça em diversas áreas, i
 
 Meu objetivo é continuar a me desenvolver profissionalmente, sempre em busca de projetos que me permitam aprender e crescer. Acredito que a empatia e a colaboração são fundamentais para qualquer profissional, e procuro aplicar esses valores em todas as oportunidades que surgem em minha carreira.
 
+Desenvolvedor Web | Full Stack | Front-end | Back-end
+
 <!-- Experiência com:
 
 <code>**_HTML, CSS, React, Redux, Context API, NodeJS, JavaScript, Jest, Docker, Git/GitHub, Scrum/Kanban_**; </code> -->
 
-Desenvolvedor Web | Full Stack | Front-end | Back-end
-
 <br>
 
-* 🎓 Tecnólogo em Analise e Desenvolvimento de Sistemas - Estácio de Sá.
+* 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas - Estácio de Sá**.
 * 📌 Sempre buscando evoluir dia após dia e assim alcançar grandes resultados.
 * 👾 Gosto de tocar violão e jogar futebol nas horas vagas. 
 
 <br>
 
-### 👩🏻‍💻 Languagens que conheço (até o momento)
+### 👩🏻‍💻 Linguagens que conheço (até o momento)
 <div style="display: inline_block"><br>
   <img align="center" alt="stariel-react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
   <img align="center" alt="stariel-redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux">
-    <img align="center" alt="stariel-jest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="jest">
+  <img align="center" alt="stariel-jest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="jest">
   <img align="center" alt="stariel-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
   <img align="center" alt="stariel-typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript"> 
   <img align="center" alt="stariel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
@@ -77,5 +77,5 @@ Desenvolvedor Web | Full Stack | Front-end | Back-end
 
 ---
 <h5><p align="center">
-  📌 Desenvolvido por <em><strong>Stariel Isaac<strong><em>
+  📌 Desenvolvido por <em><strong>Stariel Isaac</em></strong>
 </p></h5>
