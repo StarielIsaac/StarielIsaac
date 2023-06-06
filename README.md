@@ -99,11 +99,11 @@ Desenvolvedor Web | Full Stack | Front-end | Back-end
 
 ### 🏆 Minhas estatísticas
   
-<a href="https://github.com/Thiago-sLira">
+<a href="https://github.com/StarielIsaac">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=StarielIsaac&layout=compact&theme=gotham" />
 </a>
 
- <a href="https://github.com/Thiago-sLira">
+ <a href="https://github.com/StarielIsaac">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=StarielIsaac&theme=gotham&show_icons=true" />
  </a>
 
