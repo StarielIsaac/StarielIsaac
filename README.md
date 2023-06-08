@@ -22,7 +22,7 @@
 
 <img align="right" alt="my octocat" width="240px" src="https://user-images.githubusercontent.com/94204429/143463195-d67b5b34-c76a-439f-9616-04f8d9850779.png" />
 
-Olá! Sou Stariel Isaac, um desenvolvedor Full Stack em busca de novos desafios. Sou formado em Desenvolvimento Web pela Trybe e possuo experiência em diversas áreas, incluindo <code>JavaScript, Front-end, Back-end, Ciência da Computação e Metodologias Ágeis</code>. Tenho conhecimentos em tecnologias como <code>Node.js, Express, API's RESTful, bancos de dados relacionais e não-relacionais (como MySQL)</code>, além de habilidades em <code>Programação Orientada a Objetos, Python, React (Redux e Context API), Docker e Testes Automatizados.</code>
+Olá! Sou Stariel Isaac, um desenvolvedor Full Stack em busca de novos desafios. Sou formado em Desenvolvimento Web pela **Trybe** e possuo experiência em diversas áreas, incluindo <code>JavaScript, Front-end, Back-end, Ciência da Computação e Metodologias Ágeis</code>. Tenho conhecimentos em tecnologias como <code>Node.js, Express, API's RESTful, bancos de dados relacionais e não-relacionais (como MySQL)</code>, além de habilidades em <code>Programação Orientada a Objetos, Python, React (Redux e Context API), Docker e Testes Automatizados.</code>
 
 Meu objetivo é continuar a me desenvolver profissionalmente, buscando projetos que me permitam aprender e crescer. Sou um profissional colaborativo e empático, aplicando esses valores em todas as oportunidades que surgem na minha carreira.
 <code>Desenvolvedor Web | Full Stack | Front-end | Back-end</code>
@@ -31,8 +31,7 @@ Meu objetivo é continuar a me desenvolver profissionalmente, buscando projetos 
 
 <code>**_HTML, CSS, React, Redux, Context API, NodeJS, JavaScript, Jest, Docker, Git/GitHub, Scrum/Kanban_**; </code> -->
 
-* 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas - Estácio de Sá**.
-* 📌 Sempre buscando evoluir dia após dia e assim alcançar grandes resultados.
+* 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas - Estácio**.
 
 ---
 
