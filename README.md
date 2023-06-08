@@ -98,13 +98,20 @@ Trabalhei em uma variedade de projetos que demonstram minhas habilidades e conhe
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=StarielIsaac&theme=gotham&show_icons=true" />
  </a>
  
- ---
- 
- ### 🌎 Entre em contato comigo
 
+<div align="center">
+  
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&color=0C0C0C&width=435&lines=Criando+o+futuro+linha+a+linha!" alt="Typing SVG" />  
+  </a>
+  
+  [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588997845662)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stariel-isaac/)
- [![Discord](https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/channels/Stariel#2734)
- [![Instagram](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/stariel_isaac/)
+  [![Discord](https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/channels/Stariel#2734)
+  [![Instagram](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/stariel_isaac/)
+</div>
+ 
 ---
 <h5><p align="center">
   📌 Desenvolvido por <em><strong>Stariel Isaac</em></strong>
