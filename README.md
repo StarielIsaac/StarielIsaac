@@ -94,12 +94,9 @@ Trabalhei em uma variedade de projetos que demonstram minhas habilidades e conhe
 ### 🏆 Minhas estatísticas
   
 <a href="https://github.com/StarielIsaac">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=StarielIsaac&layout=compact&theme=gotham" />
-</a>
-
- <a href="https://github.com/StarielIsaac">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=StarielIsaac&layout=compact&theme=gotham&langs_count=4" />
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=StarielIsaac&theme=gotham&show_icons=true" />
- </a>
+</a>
  
 
 <div align="center">
