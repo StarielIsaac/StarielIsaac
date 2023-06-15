@@ -24,15 +24,15 @@
 
 Olá! Sou Stariel Isaac, um desenvolvedor Full Stack em busca de novos desafios. Sou formado em Desenvolvimento Web pela **Trybe** e possuo experiência em diversas áreas, incluindo <code>JavaScript, Front-end, Back-end, Ciência da Computação e Metodologias Ágeis</code>. Tenho conhecimentos em tecnologias como <code>Node.js, Express, API's RESTful, bancos de dados relacionais e não-relacionais (como MySQL)</code>, além de habilidades em <code>Programação Orientada a Objetos, Python, React (Redux e Context API), Docker e Testes Automatizados.</code>
 
-Meu objetivo é continuar a me desenvolver profissionalmente, buscando projetos que me permitam aprender e crescer. Sou um profissional colaborativo e empático, aplicando esses valores em todas as oportunidades que surgem na minha carreira.
-<code>Desenvolvedor Web | Full Stack | Front-end | Back-end</code>
+<!--Meu objetivo é continuar a me desenvolver profissionalmente, buscando projetos que me permitam aprender e crescer. Sou um profissional colaborativo e empático, aplicando esses valores em todas as oportunidades que surgem na minha carreira.
+<code>Desenvolvedor Web | Full Stack | Front-end | Back-end</code>-->
 
 <!-- Experiência com:
 
 <code>**_HTML, CSS, React, Redux, Context API, NodeJS, JavaScript, Jest, Docker, Git/GitHub, Scrum/Kanban_**; </code> -->
 
 * 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas - Estácio**.
-
+* 💻 Desenvolvedor Web | Full Stack | Front-end | Back-end
 ---
 
 ### 👩🏻‍💻 Linguagens e Ferramentas
@@ -150,9 +150,8 @@ Meu objetivo é continuar a me desenvolver profissionalmente, buscando projetos 
   </tr>
 </table>  
 
-### :briefcase: Projetos
+### :briefcase: Projetos Principais
 
-Trabalhei em uma variedade de projetos que demonstram minhas habilidades e conhecimentos. Alguns dos meus projetos destacados incluem:
 
 - [**Trybe Futebol Clube**](https://github.com/StarielIsaac/project25-trybe-futebol-clube): é um site informativo sobre partidas e classificações de futebol. Este projeto consiste no desenvolvimento de um backend dockerizado utilizando modelagem de dados através do Sequelize.
 - [**Recipes App**](https://github.com/StarielIsaac/project16-recipes-app): aplicação desenvolvida em React que permite aos usuários visualizar, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas.
