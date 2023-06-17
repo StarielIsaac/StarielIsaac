@@ -3,10 +3,12 @@
 
 <img align="right" alt="my octocat" width="240px" src="https://user-images.githubusercontent.com/94204429/143463195-d67b5b34-c76a-439f-9616-04f8d9850779.png" />
 
-Olá! Sou Stariel Isaac, um desenvolvedor Full Stack em busca de novos desafios. Sou formado em Desenvolvimento Web pela **Trybe** e possuo experiência em diversas áreas, incluindo <code>JavaScript, Front-end, Back-end, Ciência da Computação e Metodologias Ágeis</code>. Tenho conhecimentos em tecnologias como <code>Node.js, Express, API's RESTful, bancos de dados relacionais e não-relacionais (como MySQL)</code>, além de habilidades em <code>Programação Orientada a Objetos, Python, React (Redux e Context API), Docker e Testes Automatizados.</code>
+Olá! Sou Stariel Isaac, um desenvolvedor Full Stack em busca de novos desafios. Sou formado em Desenvolvimento Web pela **Trybe** e possuo experiência em diversas áreas, incluindo <code>Front-end, Back-end, Ciência da Computação e Metodologias Ágeis</code>. 
 
 <!--Meu objetivo é continuar a me desenvolver profissionalmente, buscando projetos que me permitam aprender e crescer. Sou um profissional colaborativo e empático, aplicando esses valores em todas as oportunidades que surgem na minha carreira.
-<code>Desenvolvedor Web | Full Stack | Front-end | Back-end</code>-->
+Tenho conhecimentos em tecnologias como <code>Node.js, Express, API's RESTful, bancos de dados relacionais e não-relacionais (como MySQL)</code>, além de habilidades em <code>Programação Orientada a Objetos, Python, React (Redux e Context API), Docker e Testes Automatizados.</code>
+<code>Desenvolvedor Web | Full Stack | Front-end | Back-end</code>
+-->
 
 <!-- Experiência com:
 
@@ -41,7 +43,6 @@ Olá! Sou Stariel Isaac, um desenvolvedor Full Stack em busca de novos desafios.
         <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
         <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
         <img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
-        <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 </div>
 <div>
         <img src="https://img.shields.io/badge/Tests:-E6E6E6?style=for-the-badge" alt="Testing" />
@@ -54,6 +55,7 @@ Olá! Sou Stariel Isaac, um desenvolvedor Full Stack em busca de novos desafios.
         <img src="https://img.shields.io/badge/Database:-E6E6E6?style=for-the-badge" alt="Database" />
         <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/Sequelize-6888A1?style=for-the-badge&logo=sequelize&logoColor=blue" alt="Sequelize Shield" />
+        
 </div>
 <div>
         <img src="https://img.shields.io/badge/Others:-E6E6E6?style=for-the-badge" alt="" />
