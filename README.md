@@ -16,7 +16,7 @@ Tenho conhecimentos em tecnologias como <code>Node.js, Express, API's RESTful, b
 <code>**_HTML, CSS, React, Redux, Context API, NodeJS, JavaScript, Jest, Docker, Git/GitHub, Scrum/Kanban_**; </code> -->
 
 * 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas - Estácio**.
-* 💼 Experiência nas áreas de <code>Frontend, Backend, Ciência da Computação e Metodologias Ágeis</code>
+* 💼 Experiência em diversas áreas, incluindo <code>Frontend, Backend, Ciência da Computação e Metodologias Ágeis</code>
 * 💻 Desenvolvedor Web | Full Stack | Front-end | Back-end
 ---
 
