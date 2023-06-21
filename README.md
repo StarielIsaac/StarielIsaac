@@ -3,7 +3,8 @@
 
 <img align="right" alt="my octocat" width="240px" src="https://user-images.githubusercontent.com/94204429/143463195-d67b5b34-c76a-439f-9616-04f8d9850779.png" />
 
-Olá! Sou Stariel Isaac, um desenvolvedor Full Stack em busca de novos desafios. Sou formado em Desenvolvimento Web pela **Trybe** e possuo experiência em diversas áreas, incluindo <code>Front-end, Back-end, Ciência da Computação e Metodologias Ágeis</code>. 
+<!--Olá! Sou Stariel Isaac, um desenvolvedor Full Stack em busca de novos desafios. Sou
+Formado em Desenvolvimento Web pela **Trybe** e possuo experiência em diversas áreas, incluindo <code>Front-end, Back-end, Ciência da Computação e Metodologias Ágeis</code>. -->
 
 <!--Meu objetivo é continuar a me desenvolver profissionalmente, buscando projetos que me permitam aprender e crescer. Sou um profissional colaborativo e empático, aplicando esses valores em todas as oportunidades que surgem na minha carreira.
 Tenho conhecimentos em tecnologias como <code>Node.js, Express, API's RESTful, bancos de dados relacionais e não-relacionais (como MySQL)</code>, além de habilidades em <code>Programação Orientada a Objetos, Python, React (Redux e Context API), Docker e Testes Automatizados.</code>
@@ -15,54 +16,59 @@ Tenho conhecimentos em tecnologias como <code>Node.js, Express, API's RESTful, b
 <code>**_HTML, CSS, React, Redux, Context API, NodeJS, JavaScript, Jest, Docker, Git/GitHub, Scrum/Kanban_**; </code> -->
 
 * 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas - Estácio**.
+* 💼 Experiência nas áreas de <code>Frontend, Backend, Ciência da Computação e Metodologias Ágeis</code>
 * 💻 Desenvolvedor Web | Full Stack | Front-end | Back-end
 ---
 
 ### 👩🏻‍💻 Linguagens e Ferramentas
 
 <span >
-        <img src="https://img.shields.io/badge/Linguages:-E6E6E6?style=for-the-badge" alt="Linguages" />
-        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-        <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+            <img src="https://img.shields.io/badge/Linguagens:-E6E6E6?style=for-the-badge" alt="Linguagens" />
+            <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+            <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
+            <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+            <img alt="Csharp" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 </span><br />
 <div>
-        <img src="https://img.shields.io/badge/Frontend:-E6E6E6?style=for-the-badge" alt="Frontend" />
-        <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-        <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-        <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-        <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-        <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-        <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
+            <img src="https://img.shields.io/badge/Frontend:-E6E6E6?style=for-the-badge" alt="Frontend" />
+            <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+            <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+            <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+            <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
+            <img alt="Redux" src="https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white">
+            <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+            <img alt="Material-UI" src="https://img.shields.io/badge/Material&nbsp;UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white">
 </div>
 <div>
         <img src="https://img.shields.io/badge/Backend:-E6E6E6?style=for-the-badge" alt="Backend" />
-        <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-        <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-        <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-        <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-        <img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
+            <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white">
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img alt="Nodemon" src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%23BBDEAD">
 </div>
 <div>
         <img src="https://img.shields.io/badge/Tests:-E6E6E6?style=for-the-badge" alt="Testing" />
-        <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
-        <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
-        <img alt="sinon" src="https://img.shields.io/badge/-sinon-%238D6748?style=for-the-badge&logo=sinon&logoColor=white">
-        <img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white">
+        <img alt="Jest" src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white">
+    <img alt="Mocha" src="https://img.shields.io/badge/Mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white">
+    <img alt="Sinon" src="https://img.shields.io/badge/Sinon-%238D6748.svg?style=for-the-badge&logo=sinon&logoColor=white">
+    <img alt="Testing Library" src="https://img.shields.io/badge/Testing Library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white">
 </div>
 <div>
         <img src="https://img.shields.io/badge/Database:-E6E6E6?style=for-the-badge" alt="Database" />
-        <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/Sequelize-6888A1?style=for-the-badge&logo=sequelize&logoColor=blue" alt="Sequelize Shield" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Sequelize-%236888A1.svg?style=for-the-badge&logo=sequelize&logoColor=blue" alt="Sequelize Shield" />
+    <img src="https://img.shields.io/badge/Prisma-%23000143.svg?style=for-the-badge&logo=prisma&logoColor=gray" alt="Prisma">
+
         
 </div>
 <div>
-        <img src="https://img.shields.io/badge/Others:-E6E6E6?style=for-the-badge" alt="" />
-        <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-        <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
-        <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-        <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+            <img src="https://img.shields.io/badge/Others:-E6E6E6?style=for-the-badge" alt="" />
+            <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+            <img alt="ESLint" src="https://img.shields.io/badge/ESLint-%234B3263.svg?style=for-the-badge&logo=eslint&logoColor=white">
+            <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+            <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+</div>
 </div>
 
 ---
@@ -98,7 +104,6 @@ Tenho conhecimentos em tecnologias como <code>Node.js, Express, API's RESTful, b
   [![Discord](https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/channels/Stariel#2734)
   [![Instagram](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/stariel_isaac/)
 </div>
-
-<h5 align="center">
+<!--<h5 align="center">
   📌 Desenvolvido por <em><strong>Stariel Isaac</em></strong>
-</h5>
+</h5>--!>
